@@ -1,8 +1,9 @@
->> I looked outside the window today and saw a pigeon with a letter. I grabbed the pigeon out of the sky and took a look at the letter, and the letter told me the following:
-01100111 01100001 01110111 01000011 01010100 01000110 01111011 01110011 01101101 00110100 
-01101100 01101100 01011111 01100010 01110010 00110100 01101001 01101110 01011111 01100010 
-00110001 01101110 01100001 01110010 01101001 01100101 01110011 01111101
-What could it possibly mean?
+>> I looked outside the window today and saw a pigeon with a letter. 
+   I grabbed the pigeon out of the sky and took a look at the letter, and the letter told me the following:
+   01100111 01100001 01110111 01000011 01010100 01000110 01111011 01110011 01101101 00110100 
+   01101100 01101100 01011111 01100010 01110010 00110100 01101001 01101110 01011111 01100010 
+   00110001 01101110 01100001 01110010 01101001 01100101 01110011 01111101
+   What could it possibly mean?
 
 >> HINT 1: What’s made of 1’s and 0’s that a machine can understand
 >> HINT 2: What starts with bin and ends in ary?
