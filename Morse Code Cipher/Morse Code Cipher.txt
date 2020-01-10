@@ -1,0 +1,5 @@
+>> I was sent this code in the mail, can you help me decode it? 
+gawCTF{- ...-- .-.. ...-- --. .-. ....- .--. .... -- -.-- ....- -. ..... .-- ...-- .-.}
+>> HINT 1: beep beep boop boop, the 1830’s are calling
+>> HINT 2: How did people before the telephone contact each other?
+>> HINT 3: Maybe an online decoder can help with this?
