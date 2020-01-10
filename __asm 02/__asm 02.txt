@@ -1,0 +1,3 @@
+>> The world of ASM is expanding, can you get the answer of this basic program given 112 as the parameter, 
+convert it to hex, then throw the gawCTF{} flag format on it?
+>> HINT 1: Trace through the code and get the solution
