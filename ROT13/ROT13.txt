@@ -1,6 +1,7 @@
->> Everything is rotting around me by the minute and the only way to stop it is to decode this message:
-tnjPGS{j0e53_gu4a_p43f4e}!
-Is there any way to find the flag?
+﻿>> Everything is rotting around me by the minute and the only way to stop it is to decode this message:
+   tnjPGS{j0e53_gu4a_p43f4e}!
+   Is there any way to find the flag?
+
 >> HINT 1: Thirteen thirteen thirteen…
 >> HINT 2: How can I stop the rotting?
 >> HINT 3: Maybe another question’s answer
