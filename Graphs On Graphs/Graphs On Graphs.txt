@@ -1,0 +1,8 @@
+>> We received a link in our inbox but it seems that it does not work. 
+   Is there a way to retrieve information on this link?
+   https://soundcloud.com/gcysec/graphs_on_graphs
+
+>> HINT 1: Facebook likes to stalk people, maybe they have information on the link?
+>> HINT 2: What is the open graph?
+>> HINT 3: Have you heard of a cache?
+>> HINT 4: You might need to create a facebook account to access this information

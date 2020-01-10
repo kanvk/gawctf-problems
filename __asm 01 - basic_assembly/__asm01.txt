@@ -1,0 +1,6 @@
+>> Welcome to the world of ASM! I compiled some code, here’s your assembly code! 
+   If I were to plug the number 35 (or 0x23) into the first parameter of this function, what would the answer be? 
+   Convert the answer to hexadecimal (starting in 0x) and submit it wrapped around the typical gawCTF{} text.
+
+>> HINT 1: How do we add and subtract in asm?
+>> HINT 2: The first parameter of a function in this case would be rbp-4

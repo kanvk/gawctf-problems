@@ -1,0 +1,5 @@
+>> While visiting a local aquarium, I found Dory swimming around, and she gave me this image. 
+   Is she trying to send us a message?
+
+>> HINT 1: Can information be hidden in images?
+>> HINT 2: What is LSB encoding on an image?

@@ -1,0 +1,4 @@
+>> Well, the previous one was pretty easy… Let’s see the next student’s source code.
+
+>> HINT 1: Indexes start at 0
+>> HINT 2: The two parameters in substring is start index (inclusive) and end index (exclusive).

@@ -1,0 +1,5 @@
+>> ASM is quite interesting, but sometimes can do useless things… Grab the answer to this basic program. 
+   The parameters for the program call are gawctf(0x2c, 0x3b, 0x4d)
+
+>> HINT 1: Sometimes some compilers don’t optimize well or at all. Maybe a lot of the code is useless?
+>> HINT 2: The eax register is what gets returned at the end
