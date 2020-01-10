@@ -18,7 +18,6 @@ Greppy Greppy Grep - gawCTF{wh3r35_w4ld0}
 What Is this? False Extensions - gawCTF{3xt3nt10ns_4r3_li4r5}
 Emergence: Dry Pasta, Need Sauce - gawCTF{177013}
 
-
 REVERSING
 Java Code Introduction - gawCTF{pr1nting_c0de}
 Java Code Analysis 1 - gawCTF{pl41n_t3xt_s0_s3cur3} 
@@ -29,7 +28,6 @@ Java Code Analysis 4 - gawCTF{switchy_sw4tchy}
 __asm 01 - basic_assembly- gawCTF{0x20}
 __asm 02 - jmp_thru_hoops - gawCTF{0x109}
 __asm 03 - completely_useless_code - gawCTF{0xFF}
-
 
 Basic Reversing - gawCTF{b4s1c_r3vers3r}
 Intermediate Reversing - gawCTF{sp1n_round_th3_wh33l}
@@ -61,7 +59,6 @@ Substitution Cipher - gawCTF{sub5t1tut10n5_4r3_1n53cur3}
 Morse Code Cipher - gawCTF{t3l3gr4phmy4n5w3r}
 AES Cipher - gawCTF{k33p_y0ur_k3y5_53cur3}
 Messing With Colors - gawCTF{wh0_n33ds_c0l0rs_4nyway}
-
 
 MISC
 Worldwide Map - gawCTF{c0rners_0f_th3_w0rld}
