@@ -1,2 +1,72 @@
+FORENSICS
+Hex Editor - gawCTF{h3x3d_1t}
+Basic Wireshark - gawCTF{0pening_w1reshark}
+Basic Stego - gawCTF{f1nd1ng_d0ry_1n_pla1n_s1ght}
+Intermediate Stego - gawCTF{~~~~~~}
+Graphs On Graphs (facebook cache) - gawCTF{a11_y0ur_d4t4_1s_s4ved_f0rev3r}
+Deleted (wayback machine) - gawCTF{where_d1d_1_g0?}
+Wave Subtraction Challenge - gawCTF{1nverse_p0l4rity_w0w}
+ImageFlip - gawCTF{w0w_4_sw4ps_4_me}
+Why am I blind? Broken Image - gawCTF{th3_d0ct0r_li3d}
+THou Cannot see GAW! gawCTF{g4wd_gp3g}
 
-Bonjour
+GENERAL SKILLS
+Flag Format Question - gawCTF{ez_p01ntz}
+Binary - gawCTF{sm4ll_br4in_b1naries}
+Black Falcons - gawCTF{bl4ck_f4lc0n5_r0ck}
+Greppy Greppy Grep - gawCTF{wh3r35_w4ld0}
+What Is this? False Extensions - gawCTF{3xt3nt10ns_4r3_li4r5}
+Emergence: Dry Pasta, Need Sauce - gawCTF{177013}
+
+
+REVERSING
+Java Code Introduction - gawCTF{pr1nting_c0de}
+Java Code Analysis 1 - gawCTF{pl41n_t3xt_s0_s3cur3} 
+Java Code Analysis 2 - gawCTF{do_you_kn0w_substr1ngs}
+Java Code Analysis 3 - gawCTF{str1ng_arrays_4re_s1mple} 
+Java Code Analysis 4 - gawCTF{switchy_sw4tchy}
+
+__asm 01 - basic_assembly- gawCTF{0x20}
+__asm 02 - jmp_thru_hoops - gawCTF{0x109}
+__asm 03 - completely_useless_code - gawCTF{0xFF}
+
+
+Basic Reversing - gawCTF{b4s1c_r3vers3r}
+Intermediate Reversing - gawCTF{sp1n_round_th3_wh33l}
+fishing_for_strings - gawCTF{re4ding_is_h4rd}
+And I Disappear - gawCTF{a_gh0st_4m1dst_the_c0mb4t}
+Basic application manipulation - gawCTF{jng_jz_jg_jng}
+
+BINARY EXPLOIT (PWN)
+
+WEB EXPLOIT
+Inspect Element - gawCTF{in5p3ct_4nd_y0u_5h4ll_533}
+Inspect Element 2 - gawCTF{1nsp3ct_50urce_c0d3}
+Yummy Cookie - gawCTF{c00k13_4_u}
+Desc: (Checking the website’s cookies will give you the flag(flag is the name of the cookie))
+COOKIE INJECTION
+MARL IDEAS
+SQL INJECTION X 55 
+URL POISONING
+URL TRAVERSAL
+SSTI (SERVER SIDE TEMPLATE INJECTION) 
+FLASK INJECTION
+
+CRYPTO
+Base64 - gawCTF{64_numb3r5_3nc0d1ng}
+Caesar Cipher - gawCTF{c43s4r_c1ph3rz_2_ez}
+ROT13 - gawCTF{w0r53_th4n_c43s4r}
+Vigenere Cipher - gawCTF{bl4ise_ch1ffr3}
+Substitution Cipher - gawCTF{sub5t1tut10n5_4r3_1n53cur3}
+Morse Code Cipher - gawCTF{t3l3gr4phmy4n5w3r}
+AES Cipher - gawCTF{k33p_y0ur_k3y5_53cur3}
+Messing With Colors - gawCTF{wh0_n33ds_c0l0rs_4nyway}
+
+
+MISC
+Worldwide Map - gawCTF{c0rners_0f_th3_w0rld}
+Hurtz - gawCTF{hertz_hurts}
+DesText - gawCTF{D3SM0S}
+(MacRo)nald - gawCTF{0h_n0_vb_scr1pt}
+Long Number - gawCTF{b1g_iNt_4_m3}
+Is it Christmas? - gawCTF{d4sHInG_thRU_d4_sN0W}
