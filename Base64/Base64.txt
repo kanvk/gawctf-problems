@@ -1,0 +1,6 @@
+>> A mole with 64 eyes spoke with me this morning. 
+He said something that sounded like jibberish- “Z2F3Q1RGezY0X251bWIzcjVfM25jMGQxbmd9”. 
+Any chance there’s a flag to see here?
+>> HINT 1: Does the amount of eyes mean anything?
+>> HINT 2: This is yet again another basic encoding algorithm and can be solved online
+>> HINT 3: What is ASCII?
