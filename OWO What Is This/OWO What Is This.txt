@@ -1,0 +1,6 @@
+>> A friend of mine sent me this file. Well, of course, the first thing that I did was click on it! 
+   When it opened up, I thought it was a virus! There’s a lot of weird text, what exactly is this supposed to be? 
+   Can you get the flag?
+
+>> HINT 1: How do you know what kind of file it is?
+>> HINT 2: Does a flag always have to be plain text?

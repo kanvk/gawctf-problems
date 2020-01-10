@@ -1,0 +1,6 @@
+>> While checking Reddit in the morning, an odd popup shows up. 
+   You save the image of the popup, is it possible that there is a flag somewhere here?
+
+>> HINT 1: A program to manipulate images can prove very useful
+>> HINT 2: How can we tell if a part of an image is a different shade or color?
+>> HINT 3: Luminosity and vibrancy are great words with much power

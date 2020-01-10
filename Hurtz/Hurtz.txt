@@ -1,0 +1,5 @@
+>> My phone started playing a weird annoying tone earlier today, I extracted the file it was playing.
+   Is there any flag to find?
+
+>> HINT 1: How could an image be stored in an audio file?
+>> HINT 2: Spectrographs!

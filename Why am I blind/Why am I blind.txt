@@ -1,0 +1,5 @@
+>> Today, the doctor diagnosed that I was blind. The test he gave was by showing me this picture. 
+   I told him I couldn’t see anything at all. Something smells fishy about that image...
+
+>> HINT 1: Try using Hexedit tools online
+>> HINT 2: Sometimes, there might be “One Extra Byte”
