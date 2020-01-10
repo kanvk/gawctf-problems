@@ -1,0 +1,4 @@
+>> I found an odd file on my computer today, could there be a flag hidden inside?
+
+>> HINT 1: A simple grep could yield the flag
+>> HINT 2: Don’t like to grep? ctrl+f to the rescue!

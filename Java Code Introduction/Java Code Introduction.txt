@@ -1,0 +1,8 @@
+>> I have been assigned the Teacher Assistant for Mr. Gaw’s Computer Science class. 
+   For the final project, he asked the students to create a password check program.    
+   Everyone has turned in their project, but forgot the correct password! 
+   Now, I am tasked to find the password for each student. Here is the first one. 
+   This student sent the compiled .jar file.
+
+>> Have you tried running it in a terminal?
+>> If you can not open a terminal for security reasons, you can use a decompiler.
