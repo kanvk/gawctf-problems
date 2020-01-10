@@ -1,0 +1,3 @@
+>> I was competing in picoCTF when my teammate sent me this image. I wonder what is inside.
+>> HINT 1: You may need a hex editor
+>> HINT 2: If you really don’t want to use a hex editor, a text editor might also work
