@@ -1,0 +1,9 @@
+>> A man handed me a USB stick yesterday and I did exactly what I’m not supposed to do --- 
+Plug it right into my computer! 
+The USB stick yielded 2 files -- audio1 and audio2 -- which I have uploaded. 
+Is there any way to get a code from these files?
+>> HINT 1: What is audio polarity and can these be negated?
+>> HINT 2: Are there any differences in the tracks?
+>> HINT 3: How are vocals and beats separated by individuals who want to use them?
+>> HINT 4: Make sure you don’t compress or encode the files- the full quality is crucial to this working properly
+>> HINT 5: Software such as Audacity or FL Studio might assist in getting this flag
